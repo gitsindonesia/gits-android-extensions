@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GITS Extensions</string>
+
+    <string name="title_code">Code</string>
+    <string name="title_result">Result</string>
+
+    <string name="format_list_item">%1$d. %2$s</string>
+    <string name="format_example_index">Example %d</string>
+</resources>

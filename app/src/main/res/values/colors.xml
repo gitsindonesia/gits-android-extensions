@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002677</color>
+    <color name="colorPrimaryDark">#00004a</color>
+    <color name="colorAccent">#11ACED</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorAthensGray">#F8F9FA</color>
+    <color name="colorGainsboro">#E0E0E0</color>
+</resources>
